@@ -1,4 +1,4 @@
-Here’s a polished **GitHub README** you can paste. It’s written to explain **what you were trying to find**, **what questions you answered**, and **what you delivered**, without being CV-short.
+
 
 ---
 
